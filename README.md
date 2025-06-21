@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Ronit
+
+I’m a Full Stack Developer (MEAN Stack) with 3+ years of experience building scalable web apps.
+
+- 🌱 Currently learning: GraphQL and Docker
+- 💼 Open to freelance/remote full-time opportunities
+- 🔗 Portfolio: [ronitportfolio.vercel.app](https://ronitkp-portfolio.vercel.app)
+- 📫 Reach me: [ronitpanda.rkp@gmail.com](mailto:ronitpanda.rkp@gmail.com)
+
+### 🛠️ Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
