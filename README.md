@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m a Full Stack Developer (MEAN Stack) with 3+ years of experience building scalable web apps.
 
-- 🌱 Currently learning: GraphQL and Docker
+- 🌱 Currently learning: GraphQL
 - 💼 Open to freelance/remote full-time opportunities
 - 🔗 Portfolio: [ronitportfolio.vercel.app](https://ronitkp-portfolio.vercel.app)
 - 📫 Reach me: [ronitpanda.rkp@gmail.com](mailto:ronitpanda.rkp@gmail.com)
